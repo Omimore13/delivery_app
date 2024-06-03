@@ -1,11 +1,9 @@
 import 'package:delivery_app/static_methods/styles.dart';
 import 'package:delivery_app/view/splash_screen.dart';
 import 'package:delivery_app/view/sub_category.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:delivery_app/view/demo.dart';
+
 import '../static_methods/bottomnavigationPage.dart';
 
 class Category extends StatefulWidget {
